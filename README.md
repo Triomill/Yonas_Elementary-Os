@@ -1,1 +1,4 @@
-# Yonas_Elementary-Os
+# Elementary OS 8.0 Installation
+Elementary OS is a sleek, Ubuntu-based distribution focused on simplicity and minimalism. Designed for users who prefer a clean and intuitive interface, it features the Pantheon desktop environment. The OS emphasizes privacy, performance, and a refined user experience. Elementary OS 8.0 includes essential apps and tools out of the box, offering a smooth setup process and polished design for everyday computing.
+# System Call: getdents()
+The getdents() system call reads several directory entries from a file descriptor into a user-provided buffer. It returns data in a low-level format and is used internally by commands like ls. It allows programs to list files in a directory without high-level libraries. Requires careful handling of raw binary data and is replaced in modern code by higher-level functions like readdir() for safety and simplicity.
